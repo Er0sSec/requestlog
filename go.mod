@@ -1,4 +1,4 @@
-module github.com/jpillora/requestlog/v2
+module github.com/Er0sSec/requestlog/v2
 
 go 1.21.5
 
